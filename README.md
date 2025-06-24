@@ -57,9 +57,8 @@ Ouvrir le fichier suivant avec Jupyter Notebook :
 notebooks/01_modeling.ipynb
 
 4. Organisation du projet
-bash
-Copier
-Modifier
+
+
 spam-sms-classifier/
 ├── data/                # Données d'entrée (non versionnées)
 ├── models/              # Modèles et vectorizer sauvegardés
