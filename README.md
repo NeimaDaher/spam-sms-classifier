@@ -56,8 +56,7 @@ Ouvrir le fichier suivant avec Jupyter Notebook :
 
 notebooks/01_modeling.ipynb
 
-4. Organisation du projet
-
+## 4. Organisation du projet
 
 spam-sms-classifier/
 ├── data/                # Données d'entrée (non versionnées)
