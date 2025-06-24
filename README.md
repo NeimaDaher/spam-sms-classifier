@@ -56,15 +56,4 @@ Ouvrir le fichier suivant avec Jupyter Notebook :
 
 notebooks/01_modeling.ipynb
 
-## 4. Organisation du projet
-
-
-Le projet est structuré de la manière suivante :
-
-- `data/` : Données brutes (non suivies dans Git)
-- `models/` : Modèles entraînés et TF-IDF vectorizer sauvegardés (`.pkl`)
-- `notebooks/` : Notebook Jupyter principal (`01_modeling.ipynb`)
-- `src/` : Fichiers Python contenant les fonctions de modélisation
-- `requirements.txt` : Liste des dépendances du projet
-- `README.md` : Documentation du projet
 
