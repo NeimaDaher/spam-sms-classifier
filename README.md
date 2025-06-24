@@ -59,9 +59,9 @@ notebooks/01_modeling.ipynb
 ## 4. Organisation du projet
 
 spam-sms-classifier/
-├── data/                # Données d'entrée (non versionnées)
-├── models/              # Modèles et vectorizer sauvegardés
-├── notebooks/           # Notebook Jupyter principal
-├── src/                 # Fonctions Python pour le ML
-├── requirements.txt     # Dépendances du projet
-└── README.md            # Présentation du projet
+├── data/ # Données d'entrée (non versionnées)
+├── models/ # Modèles et vectorizer sauvegardés
+├── notebooks/ # Notebook Jupyter principal
+├── src/ # Fonctions Python pour le ML
+├── requirements.txt # Dépendances du projet
+└── README.md # Présentation du projet
