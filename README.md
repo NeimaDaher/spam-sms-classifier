@@ -58,10 +58,13 @@ notebooks/01_modeling.ipynb
 
 ## 4. Organisation du projet
 
-spam-sms-classifier/
-├── data/ # Données d'entrée (non versionnées)
-├── models/ # Modèles et vectorizer sauvegardés
-├── notebooks/ # Notebook Jupyter principal
-├── src/ # Fonctions Python pour le ML
-├── requirements.txt # Dépendances du projet
-└── README.md # Présentation du projet
+
+Le projet est structuré de la manière suivante :
+
+- `data/` : Données brutes (non suivies dans Git)
+- `models/` : Modèles entraînés et TF-IDF vectorizer sauvegardés (`.pkl`)
+- `notebooks/` : Notebook Jupyter principal (`01_modeling.ipynb`)
+- `src/` : Fichiers Python contenant les fonctions de modélisation
+- `requirements.txt` : Liste des dépendances du projet
+- `README.md` : Documentation du projet
+
